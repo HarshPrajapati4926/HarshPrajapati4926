@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ticket Booking Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
